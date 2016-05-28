@@ -1,0 +1,49 @@
+h1 {
+	font-size: 36px;
+	font-weight: 300;
+	font-family: Open sans, sans-serif;
+	color: #00BDCF;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+
+a {
+	font-family: Open sans, sans-serif;
+	color: #FF5E0E;
+	text-decoration: none;
+}
+
+
+aside {
+	box-sizing: border-box;
+	width: 35%;
+	background-color: f5f4f3;
+	border: 1px solid #bfbfbf;
+	padding: 75px 8%;
+}
+
+
+.image {
+	width: 100%;
+	margin: auto;
+	margin-top: 50px;
+}
+
+img {
+	width: 100%;
+}
+
+.link {
+	margin-top: 50px;
+}
+
+
+.paragraph {
+	margin-top: 50px;
+	color: #5f7777;
+	font-family: Open sans, sans-serif;
+	font-weight: 300;
+	font-size: 16px;
+	text-align: justify;
+}
